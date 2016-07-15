@@ -1,0 +1,6 @@
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithm\bin\Debug\MinCutAlgorithm.exe.config
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithm\bin\Debug\MinCutAlgorithm.exe
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithm\bin\Debug\MinCutAlgorithm.pdb
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithm\obj\Debug\MinCutAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithm\obj\Debug\MinCutAlgorithm.exe
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithm\obj\Debug\MinCutAlgorithm.pdb

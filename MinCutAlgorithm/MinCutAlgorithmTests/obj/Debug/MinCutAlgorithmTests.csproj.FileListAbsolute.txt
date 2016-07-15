@@ -1,0 +1,9 @@
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithmTests\bin\Debug\MinCutAlgorithmTests.dll
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithmTests\bin\Debug\MinCutAlgorithmTests.pdb
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithmTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithmTests\bin\Debug\MinCutAlgorithm.exe
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithmTests\bin\Debug\MinCutAlgorithm.pdb
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithmTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithmTests\obj\Debug\MinCutAlgorithmTests.csprojResolveAssemblyReference.cache
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithmTests\obj\Debug\MinCutAlgorithmTests.dll
+C:\Users\Nilufar\Documents\GitHub\Stanford Algo\W3\MinCutAlgorithm\MinCutAlgorithmTests\obj\Debug\MinCutAlgorithmTests.pdb
