@@ -11,5 +11,12 @@ namespace MinCutAlgorithm
         public Vertex FirstEndpoint { get; set; }
 
         public Vertex SecondEndPoint { get; set; }
+
+        public bool isDeleted { get; set; }
+
+        public Edge()
+        {
+            isDeleted = false;
+        }
     }
 }

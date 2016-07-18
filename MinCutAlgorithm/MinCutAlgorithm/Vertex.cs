@@ -12,9 +12,13 @@ namespace MinCutAlgorithm
 
         public string Label { get; set; }
 
+        public bool isDeleted { get; set; }
+
+        
         public Vertex()
         {
             IncidentEdges = new List<Edge>();
+            isDeleted = false;
         }
     }
 }
